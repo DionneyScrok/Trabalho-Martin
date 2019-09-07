@@ -1,0 +1,11 @@
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\bin\Debug\netcoreapp2.1\Trabalho-martin.deps.json
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\bin\Debug\netcoreapp2.1\Trabalho-martin.runtimeconfig.json
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\bin\Debug\netcoreapp2.1\Trabalho-martin.runtimeconfig.dev.json
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\bin\Debug\netcoreapp2.1\Trabalho-martin.dll
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\bin\Debug\netcoreapp2.1\Trabalho-martin.pdb
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\obj\Debug\netcoreapp2.1\Trabalho-martin.csprojAssemblyReference.cache
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\obj\Debug\netcoreapp2.1\Trabalho-martin.csproj.CoreCompileInputs.cache
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\obj\Debug\netcoreapp2.1\Trabalho-martin.AssemblyInfoInputs.cache
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\obj\Debug\netcoreapp2.1\Trabalho-martin.AssemblyInfo.cs
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\obj\Debug\netcoreapp2.1\Trabalho-martin.dll
+C:\Users\dionn\source\repos\Trabalho-martin\Trabalho-martin\obj\Debug\netcoreapp2.1\Trabalho-martin.pdb
