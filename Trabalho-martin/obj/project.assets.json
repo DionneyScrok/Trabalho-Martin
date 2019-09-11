@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dionn\\source\\repos\\Trabalho-martin\\Trabalho-martin\\Trabalho-martin.csproj",
+      "projectUniqueName": "C:\\Users\\dionn\\Trabalho-Martin\\Trabalho-martin\\Trabalho-martin.csproj",
       "projectName": "Trabalho-martin",
-      "projectPath": "C:\\Users\\dionn\\source\\repos\\Trabalho-martin\\Trabalho-martin\\Trabalho-martin.csproj",
+      "projectPath": "C:\\Users\\dionn\\Trabalho-Martin\\Trabalho-martin\\Trabalho-martin.csproj",
       "packagesPath": "C:\\Users\\dionn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dionn\\source\\repos\\Trabalho-martin\\Trabalho-martin\\obj\\",
+      "outputPath": "C:\\Users\\dionn\\Trabalho-Martin\\Trabalho-martin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

@@ -137,7 +137,7 @@ namespace Trabalho_martin
                         break;
                     case "06":
                         Console.WriteLine("(Sair)");
-                        Environment.Exit(0);
+                        Environment.Exit(06);
                         continua = false;
 
                         break;
